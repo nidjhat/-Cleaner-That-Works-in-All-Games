@@ -5,5 +5,6 @@ It's easy, you just need to start the bat file as administrator. It's that simpl
 
 
 
+screenshot⬇
 
 ![SharedScreenshot](https://github.com/nidjhat/-Cleaner-That-Works-in-All-Games/assets/175286658/866308dd-0734-4c1d-aa73-d24a5d510679)
